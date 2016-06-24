@@ -11,7 +11,7 @@ Day | Activity|Where
 Monday 7-4 | Holiday - No lab work | Anywhere but the lab!
 Tuesday 7-5 | Module Overview & Introductions
  | Pipette exercise | Loeb 157
- | RNA extraction exercise | Loeb 157
+ | [RNA extraction exercise](https://github.com/raynamharris/MolecularBiologyProtocols/blob/master/MaxwellRSCsimplyRNA.md) | Loeb 157
  | 1 Step qPCR exercise | Loeb 157
  | 1 Step qPCR analysis | Loeb 157
 Wednesday 7-6 | qPCR principles talk | TBA
