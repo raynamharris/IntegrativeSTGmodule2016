@@ -1,5 +1,3 @@
-# The 2016 Integrative STG Module
-
 Welcome to the resources webpage for the 2016 Integrative STG Module! We are really excited to spend the next two weeks with you! Please use this webpage as a community resource where you will find links to lessons, protocols, useful tools, and information about module and the instructors. A description of the overall module objectives and goals, [visit this page](https://github.com/raynamharris/IntegrativeSTGmodule2016/blob/master/ModuleOverview.md). 
 
 ## Meet the Instructors
@@ -12,7 +10,7 @@ During this module, you will learn a lot from [David Schulz](https://schulz.biol
 Day | Activity|Where
 :---|:---|:---
 Monday 7-4 | Holiday - No lab work | Anywhere but the lab!
-Tuesday 7-5 | Module Overview & Introductions
+Tuesday 7-5 | Module Overview & Introductions | TBA
  | Pipette exercise | Loeb 157
  | [RNA extraction exercise](https://github.com/raynamharris/MolecularBiologyProtocols/blob/master/MaxwellRSCsimplyRNA.md) | Loeb 157
  | 1 Step qPCR exercise | Loeb 157
