@@ -4,21 +4,11 @@ Welcome to the resources webpage for the 2016 Integrative STG Module! We are rea
 During this module, you will learn a lot from [David Schulz](https://schulz.biology.missouri.edu), [Eva Fischer](http://evakfischer.weebly.com), [Rayna Harris](http://raynamharris.github.io),
 [Adam Northcutt](https://schulz.biology.missouri.edu), and [Hans Hofmann](http://cichlid.biosci.utexas.edu). You can also read our short biographies [here](https://github.com/raynamharris/IntegrativeSTGmodule2016/blob/master/Instructors.md).
 
+Concepts of RNA isolation & reverse transcription | TBA 
+ | Brain RNA isolation, reverse transcription & qPCR | Loeb 157
+ | Whole STG and muscle RNA isolation, reverse transcription & qPCR | Loeb 157
 
-## Schedule
-
-Day | Activity|Where
-:---|:---|:---
-Monday 7-4 | Holiday - No lab work | Anywhere but the lab!
-Tuesday 7-5 | Module Overview & Introductions | TBA
- | Pipette exercise | Loeb 157
- | RNA extraction exercise | Loeb 157
- | 1 Step qPCR exercise | Loeb 157
- | 1 Step qPCR analysis | Loeb 157
-Wednesday 7-6 | qPCR principles talk | TBA
- | qPCR - cDNA validation exercise | Loeb 157
- | Primer design exercise | Loeb G70N
-
-
-
+Friday 7-8 | Concepts of single cell PCR |
+ | Single cell RNA isolation, reverse transcription & qPCR | Loeb 157
+ | Discuss qPCR special topics | TBA
 
