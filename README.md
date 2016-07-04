@@ -15,19 +15,16 @@ Tuesday 7-5 | Module Overview & Introductions | TBA
  | 1 Step qPCR exercise: Crab brain 18S RNA quantification | Loeb 157
  | 1 Step qPCR analysis: Crab brain 18S RNA quantification | Loeb 157
  | Blast tutorial and exercises  | Loeb G70N
- | Primer design exercise | Loeb G70N
- 
+ | Primer design exercise | Loeb G70N 
 Wednesday 7-6 | Morning Boat Ride!!| Gemma
  | Design & order primers | Loeb G70N
  | qPCR principles talk | TBA
  | qPCR - gBlocks | Loeb 157
  | Wednesday light lecture
  | Student project discussion
-
 Thursday 7-7 | Concepts of RNA isolation & reverse transcription | TBA 
  | Brain RNA isolation, reverse transcription & qPCR | Loeb 157
  | Whole STG and muscle RNA isolation, reverse transcription & qPCR | Loeb 157
-
 Friday 7-8 | Concepts of single cell PCR |
  | Single cell RNA isolation, reverse transcription & qPCR | Loeb 157
  | Discuss qPCR special topics | TBA
