@@ -23,7 +23,7 @@ What is a “one-step” reaction?  Normally, the enzymatic reactions involved i
 
 Before beginning – read through and think about your workflow.  Gloves, ice, racks and tubes.  What will you need and why?
 
-1. You will find a protocol in your shared folder called “[BioRad-OneStep-qRTPCR.pdf](protocols/BioRad-OneStep-qRTPCR.pdf)”.  Open this protocol and read it through before starting the exercise.  Even if you don’t understand everything in the protocol, a once-through will prime you for what is to come. 
+1. You will find a protocol in your shared folder called “[BioRad-OneStep-qRTPCR.pdf](BioRad-OneStep-qRTPCR.pdf)”.  Open this protocol and read it through before starting the exercise.  Even if you don’t understand everything in the protocol, a once-through will prime you for what is to come. 
 2. Obtain an aliquot of RNA for use in the exercise.  We will be using total RNA extracted from crab (C. borealis) brain.
 3. Before diluting your RNA, spec the RNA out on the Nanodrop machine Record the concentration and the OD260/280 in your lab notebook.  If possible, save the output of the Nanodrop and import it into your Powerpoint notebook file.  
 4. Design a dilution series that will consist of 4 samples.  The first concentration should be 50 ng/ul and each step in the dilution series represents an 8-fold dilution.  Check with one of the instructors before beginning your dilution series to make sure it is well designed.  These diluted samples will each be used as an individual sample in a qRT-PCR reaction to quantify 18S rRNA levels in the sample.  
