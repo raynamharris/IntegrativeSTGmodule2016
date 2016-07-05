@@ -11,7 +11,7 @@ Day | Activity|Where
 :---|:---|:---
 Monday 7-4 | Holiday - No lab work | Anywhere but the lab!
 Tuesday 7-5 | Module Overview & Introductions | TBA
- | [Pipette exercise: RNA dilution series](protocols/RNA_pipette_exercise.md) Loeb 157
+ | [Pipette exercise: RNA dilution series](protocols/RNA_pipette_exercise.md) | Loeb 157
  | [1 Step qPCR analysis: Crab brain 18S RNA quantification](protocols/1stepRTPCR_18S.md) | Loeb 157
  | Blast tutorial and exercises  | Loeb G70N
  | Primer design exercise | Loeb G70N 
