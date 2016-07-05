@@ -13,7 +13,7 @@ Follow [this link](http://www.nanodrop.com) to watch a 3 minute video about how 
 ## Serial dilutions
 A serial dilution is the stepwise dilution of a substance in solution. Usually the dilution factor at each step is constant, resulting in descending concentration in logarithmic fashion. Serial dilutions are used to accurately create highly diluted solutions or to create standard curves with a logarithmic scale. Ten-fold and two-fold serial dilutions are commonly used in molecular biology.
 
-A **ten-fold serial dilution** reduced the concentration by 10. For instance, the final concentration of the series could be: 100 M, 10 M, 1 M, 0.1 M, 0.01 M, and  0.001 M. 
+A **ten-fold serial dilution** reduced the concentration by a factor of 10. For instance, the final concentration of the series could be: 100 M, 10 M, 1 M, 0.1 M, 0.01 M, and  0.001 M. 
 
 A **two-fold serial dilution** reduces the concentration by one half. For instance, the final concentration of the series could be: 200 M, 100 M, 50 M, 25 M, 12.5 M, 6.25 M.
 
