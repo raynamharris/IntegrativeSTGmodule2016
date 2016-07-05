@@ -43,4 +43,4 @@ RNA can degrade rapidly. Too minimize degradation, we store RNA frozen (usually 
 14. Save your results to a USB drive.
 15. Optional: Plot expected concentration versus observed concentration. Calculate the R^2 value of the curve and determine with student prepared the most precise serial dilution.
 
-[Concept Map](figures/serial_diltion.png)
+![Concept Map](figures/serial_dilution.png)
