@@ -15,7 +15,7 @@ Tuesday 7-5 | Module Overview & Introductions | TBA
  | [1 Step qPCR analysis: Crab brain 18S RNA quantification](protocols/1stepRTPCR_18S.md)  
  | [Blast tutorial and exercises](protocols/blast.md)  | Loeb G70N
 Wednesday 7-6 | Morning Boat Ride!!| Gemma
- | Primer design exercise | Loeb G70N 
+ | [Primer design exercise](http://www.ncbi.nlm.nih.gov/tools/primer-blast/) | Loeb G70N 
  | qPCR principles talk | TBA
  | qPCR - gBlocks | Loeb 157
  | Wednesday light lecture
