@@ -22,32 +22,32 @@ The goal of our first week of qPCR exercises is to use electrical coupling and I
 We will begin with an exploration of the transcriptome of the STG to search for Innexin coding genes via bioinformatic comparison of crab sequence with innexins identified from other species.  Following gene identification, we will design primers that will allow of the quantitation of innexin transcripts via qRT-PCR.  
 
 ## BLAST+ Instructions
-1. To download blast+, follow this link: ftp://ftp.ncbi.nlm.nih.gov/blast/executables/blast+/LATEST/
-2. Download the version that is compatible with your computer. 
-3. Open the file, agree to the license, and install it. 
-4. Open your command prompt (whatever that may be for your operating system).  
-5. On a Windows machine, navigate to `C:\NCBI\blast-2.4.0+`. On a Mac, navigate to your Downloads directory. 
+- To download blast+, follow this link: ftp://ftp.ncbi.nlm.nih.gov/blast/executables/blast+/LATEST/
+- Download the version that is compatible with your computer. 
+- Open the file, agree to the license, and install it. 
+- Open your command prompt (whatever that may be for your operating system).  
+- On a Windows machine, navigate to `C:\NCBI\blast-2.4.0+`. On a Mac, navigate to your Downloads directory. 
 
 ~~~
 cd "C:\NCBI\blast-2.4.0+" ## windows
 cd ~/Downloads            ## mac
 ~~~
 
-6. Make 3 new folders called Input, Output, and Databases 
+- Make 3 new folders called Input, Output, and Databases 
 
 ~~~
 mkdir Input Output Databases
 ~~~
 
-7. Now that we are organized with our folders, let’s add some files to our Input and Databases folders. Save a copy of the transcriptome (a .fa file) into the Input directory.
-8. Navigate to your bin directory and run the command below
+- Now that we are organized with our folders, let’s add some files to our Input and Databases folders. Save a copy of the transcriptome (a .fa file) into the Input directory.
+- Navigate to your bin directory and run the command below
 
 ~~~
 cd bin
 makeblastdb –in ../Databases.myDB.fsa –dbtype nucl –parse_seqids -out ../Databases/myNucleotideDB
 ~~~
 
-9. Now we can take our input sequences and align them against the database we made. 
+- Now we can take our input sequences and align them against the database we made. 
 
 ~~~
 ## on windows machines
@@ -57,12 +57,12 @@ tblastx  –db C:\NCBI\blast-2.4.0+\Databases\myNucleotideDB  –query C:\NCBI\b
 tblastx  –db ../Databases/myNucleotideDB  –query ../Inputs/nucleotide.fsa -evalue 1e-30 –out ../Outputs/myblast.html -html
 ~~~
 
-9.1 The E-value is the expected value that a match could be made by chance, so the closer to zero this is, the more we trust our alignment to not be random. 
-9.2 tblastx is useful because we expect there to be more sequence conservation at the protein level for a given gene than the nucleotide level due to the fact that the same amino acid can arise from many different codon triplicates. 
-10.	Go to your Output folder, and you should see a newly created html file there. Open it. 
+- The E-value is the expected value that a match could be made by chance, so the closer to zero this is, the more we trust our alignment to not be random. 
+- tblastx is useful because we expect there to be more sequence conservation at the protein level for a given gene than the nucleotide level due to the fact that the same amino acid can arise from many different codon triplicates. 
+-	Go to your Output folder, and you should see a newly created html file there. Open it. 
 Here will be a list of sequences you used as a query and all the sequences it found matches for in the database, with the order based on the E-value. 
-10.2 This is why having an E-value threshold can make your downstream analysis cleaner. 
-11. Now you have sequence targets that you can find in your database file.	I recommend using wordpad, notepad, or a similar text editor to view the database and find your newly found sequence. A good final check is to blast the sequence online at NCBI to double check its alignment.
+- This is why having an E-value threshold can make your downstream analysis cleaner. 
+- Now you have sequence targets that you can find in your database file.	I recommend using wordpad, notepad, or a similar text editor to view the database and find your newly found sequence. A good final check is to blast the sequence online at NCBI to double check its alignment.
 
 ##  Additional Resources
 For more information on blast+, see the manual: http://computing.bio.cam.ac.uk/local/doc/blast+_user_manual.pdf
