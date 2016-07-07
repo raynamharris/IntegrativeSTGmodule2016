@@ -1,4 +1,4 @@
-Welcome to the resources webpage for the 2016 Integrative STG Module! We are really excited to spend the next two weeks with you! Please use this webpage as a community resource where you will find links to lessons, protocols, useful tools, and information about module and the instructors. A description of the overall module objectives and goals, [visit this page](https://github.com/raynamharris/IntegrativeSTGmodule2016/blob/master/ModuleOverview.md). 
+Welcome to the resources webpage for the 2016 Integrative STG Module! We are really excited to spend the next two weeks with you! Please use this webpage as a community resource where you will find links to lessons, protocols, useful tools, and information about module and the instructors. A description of the overall module objectives and goals, [visit this page](../ModuleOverview.md). 
 
 ## Meet the Instructors
 During this module, you will learn a lot from [David Schulz](https://schulz.biology.missouri.edu), [Eva Fischer](http://evakfischer.weebly.com), [Rayna Harris](http://raynamharris.github.io),
@@ -12,11 +12,10 @@ Day | Activity|Where
 Monday 7-4 | Holiday - No lab work | Anywhere but the lab!
 Tuesday 7-5 | Module Overview & Introductions | TBA
  | [Pipette exercise: RNA dilution series](protocols/RNA_pipette_exercise.md) | Loeb 157
- | [1 Step qPCR analysis: Crab brain 18S RNA quantification](protocols/1stepRTPCR_18S.md) | Loeb 157
- | Blast tutorial and exercises  | Loeb G70N
- | Primer design exercise | Loeb G70N 
+ | [1 Step qPCR analysis: Crab brain 18S RNA quantification](protocols/1stepRTPCR_18S.md)  
+ | [Blast tutorial and exercises](protocols/blast.md)  | Loeb G70N
 Wednesday 7-6 | Morning Boat Ride!!| Gemma
- | Design & order primers | Loeb G70N
+ | Primer design exercise | Loeb G70N 
  | qPCR principles talk | TBA
  | qPCR - gBlocks | Loeb 157
  | Wednesday light lecture
