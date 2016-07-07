@@ -69,6 +69,7 @@ For more information on blast+, see the manual: http://computing.bio.cam.ac.uk/l
 
 ## Definitions 
 
+Word | Definition
 :---|:---
 Query | the sequence(s) that you want to align against a database.  Query sequences are used as inputs. 
 Subject | any sequence(s) that you are aligning your queries against; usually a database, but can be individual sequences as well. 
