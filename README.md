@@ -5,7 +5,7 @@ During this module, you will learn a lot from [David Schulz](https://schulz.biol
 [Adam Northcutt](https://schulz.biology.missouri.edu), and [Hans Hofmann](http://cichlid.biosci.utexas.edu). You can also read our short biographies [here](https://github.com/raynamharris/IntegrativeSTGmodule2016/blob/master/Instructors.md).
 
 
-## Schedule
+## Week 1 Schedule
 
 Day | Activity|Where
 :---|:---|:---
@@ -26,3 +26,20 @@ Thursday 7-7 | Concepts of RNA isolation & reverse transcription | TBA
 Friday 7-8 | Concepts of single cell PCR |
  | Single cell RNA isolation, reverse transcription & qPCR | Loeb 157
  | Discuss qPCR special topics | TBA
+ 
+## Week 2 Schedule
+Day | Activity|Where
+:---|:---|:---
+Mon | Morning Lectures | Loeb G70N
+ | Intro to Transcriptomic Datasets | TBD
+ | How to keep an NGS lab notebook, [Intro to Unix](https://github.com/raynamharris/Shell_Intro_for_Transcriptomics), [Intro to TACC](https://github.com/raynamharris/IntegrativeSTGmodule2016) | TBD
+ | [Transcriptomics Part 1: de novo transcriptome constuction](https://github.com/raynamharris/FilesForBioinformaticsCourse) | TBD
+Tues | Morning Lectures | Loeb G70N
+ | Experimental design considerations | TBD
+ | [Transcriptomics Part 2: alignment, abundance estimation, DE analysis](https://github.com/raynamharris/FilesForBioinformaticsCourse) | Lillie 103
+ | [Transcriptomics Part 3: Multivariate and Covariance analyses](https://github.com/raynamharris/FilesForBioinformaticsCourse) | Lillie 103
+Wed- Fri | Work on Group Projects | Loeb 157
+Sat | Group Presentations |  Loeb G70N
+ | The Usual Mandatory Recreation + Fun time on the beach! | Outside!
+ | End of Course Party!| TBD
+ 
