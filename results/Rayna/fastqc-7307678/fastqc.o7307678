@@ -1,0 +1,147 @@
+/work/02189/rmharris/IntMolModule/STG/data/2016-06-27-JA16393
+TACC: Starting up job 7307678
+TACC: starting parallel tasks...
+--------------------------------------------------
+TACC Launcher -> 16 processors allocated.
+TACC Launcher -> 68 total tasks to complete.
+--------------------------------------------------
+ 
+TACC Launcher -> Iniating task 1 on c401-903.stampede.tacc.utexas.edu (fastqc GM-27-S_S34_R1_001.fastq.gz)
+TACC Launcher -> Iniating task 5 on c401-903.stampede.tacc.utexas.edu (fastqc GM-30-S_S18_R1_001.fastq.gz)
+TACC Launcher -> Iniating task 11 on c401-903.stampede.tacc.utexas.edu (fastqc GM-34-S_S21_R1_001.fastq.gz)
+TACC Launcher -> Iniating task 6 on c401-903.stampede.tacc.utexas.edu (fastqc GM-30-S_S18_R2_001.fastq.gz)
+TACC Launcher -> Iniating task 3 on c401-903.stampede.tacc.utexas.edu (fastqc GM-29-S_S17_R1_001.fastq.gz)
+TACC Launcher -> Iniating task 10 on c401-903.stampede.tacc.utexas.edu (fastqc GM-33-S_S20_R2_001.fastq.gz)
+TACC Launcher -> Iniating task 13 on c401-903.stampede.tacc.utexas.edu (fastqc GM-37-S_S22_R1_001.fastq.gz)
+TACC Launcher -> Iniating task 9 on c401-903.stampede.tacc.utexas.edu (fastqc GM-33-S_S20_R1_001.fastq.gz)
+TACC Launcher -> Iniating task 2 on c401-903.stampede.tacc.utexas.edu (fastqc GM-27-S_S34_R2_001.fastq.gz)
+TACC Launcher -> Iniating task 14 on c401-903.stampede.tacc.utexas.edu (fastqc GM-37-S_S22_R2_001.fastq.gz)
+TACC Launcher -> Iniating task 7 on c401-903.stampede.tacc.utexas.edu (fastqc GM-31-S_S19_R1_001.fastq.gz)
+TACC Launcher -> Iniating task 8 on c401-903.stampede.tacc.utexas.edu (fastqc GM-31-S_S19_R2_001.fastq.gz)
+TACC Launcher -> Iniating task 12 on c401-903.stampede.tacc.utexas.edu (fastqc GM-34-S_S21_R2_001.fastq.gz)
+TACC Launcher -> Iniating task 16 on c401-903.stampede.tacc.utexas.edu (fastqc GM-38-S_S23_R2_001.fastq.gz)
+TACC Launcher -> Iniating task 15 on c401-903.stampede.tacc.utexas.edu (fastqc GM-38-S_S23_R1_001.fastq.gz)
+TACC Launcher -> Iniating task 4 on c401-903.stampede.tacc.utexas.edu (fastqc GM-29-S_S17_R2_001.fastq.gz)
+Analysis complete for GM-27-S_S34_R2_001.fastq.gz
+Analysis complete for GM-27-S_S34_R1_001.fastq.gz
+Analysis complete for GM-38-S_S23_R2_001.fastq.gz
+Analysis complete for GM-37-S_S22_R1_001.fastq.gz
+Analysis complete for GM-38-S_S23_R1_001.fastq.gz
+TACC Launcher -> Iniating task 18 on c401-903.stampede.tacc.utexas.edu (fastqc GM-39-S_S24_R2_001.fastq.gz)
+Analysis complete for GM-34-S_S21_R1_001.fastq.gz
+TACC Launcher -> Iniating task 17 on c401-903.stampede.tacc.utexas.edu (fastqc GM-39-S_S24_R1_001.fastq.gz)
+Analysis complete for GM-29-S_S17_R2_001.fastq.gz
+Analysis complete for GM-34-S_S21_R2_001.fastq.gz
+TACC Launcher -> Iniating task 29 on c401-903.stampede.tacc.utexas.edu (fastqc LP-07-S_S6_R1_001.fastq.gz)
+TACC Launcher -> Iniating task 32 on c401-903.stampede.tacc.utexas.edu (fastqc LP-08-S_S7_R2_001.fastq.gz)
+Analysis complete for GM-37-S_S22_R2_001.fastq.gz
+Analysis complete for GM-29-S_S17_R1_001.fastq.gz
+TACC Launcher -> Iniating task 31 on c401-903.stampede.tacc.utexas.edu (fastqc LP-08-S_S7_R1_001.fastq.gz)
+TACC Launcher -> Iniating task 27 on c401-903.stampede.tacc.utexas.edu (fastqc LP-06-S_S5_R1_001.fastq.gz)
+TACC Launcher -> Iniating task 20 on c401-903.stampede.tacc.utexas.edu (fastqc LP-01-S_S1_R2_001.fastq.gz)
+TACC Launcher -> Iniating task 28 on c401-903.stampede.tacc.utexas.edu (fastqc LP-06-S_S5_R2_001.fastq.gz)
+TACC Launcher -> Iniating task 30 on c401-903.stampede.tacc.utexas.edu (fastqc LP-07-S_S6_R2_001.fastq.gz)
+TACC Launcher -> Iniating task 19 on c401-903.stampede.tacc.utexas.edu (fastqc LP-01-S_S1_R1_001.fastq.gz)
+Analysis complete for GM-33-S_S20_R1_001.fastq.gz
+Analysis complete for GM-33-S_S20_R2_001.fastq.gz
+Analysis complete for GM-30-S_S18_R1_001.fastq.gz
+TACC Launcher -> Iniating task 25 on c401-903.stampede.tacc.utexas.edu (fastqc LP-04-S_S4_R1_001.fastq.gz)
+Analysis complete for GM-31-S_S19_R2_001.fastq.gz
+Analysis complete for GM-31-S_S19_R1_001.fastq.gz
+TACC Launcher -> Iniating task 26 on c401-903.stampede.tacc.utexas.edu (fastqc LP-04-S_S4_R2_001.fastq.gz)
+Analysis complete for GM-30-S_S18_R2_001.fastq.gz
+TACC Launcher -> Iniating task 21 on c401-903.stampede.tacc.utexas.edu (fastqc LP-02-S_S2_R1_001.fastq.gz)
+TACC Launcher -> Iniating task 24 on c401-903.stampede.tacc.utexas.edu (fastqc LP-03-S_S3_R2_001.fastq.gz)
+TACC Launcher -> Iniating task 23 on c401-903.stampede.tacc.utexas.edu (fastqc LP-03-S_S3_R1_001.fastq.gz)
+TACC Launcher -> Iniating task 22 on c401-903.stampede.tacc.utexas.edu (fastqc LP-02-S_S2_R2_001.fastq.gz)
+Analysis complete for LP-08-S_S7_R1_001.fastq.gz
+Analysis complete for LP-08-S_S7_R2_001.fastq.gz
+Analysis complete for LP-07-S_S6_R1_001.fastq.gz
+TACC Launcher -> Iniating task 47 on c401-903.stampede.tacc.utexas.edu (fastqc PD-22-S_S14_R1_001.fastq.gz)
+TACC Launcher -> Iniating task 48 on c401-903.stampede.tacc.utexas.edu (fastqc PD-22-S_S14_R2_001.fastq.gz)
+TACC Launcher -> Iniating task 45 on c401-903.stampede.tacc.utexas.edu (fastqc PD-21-S_S13_R1_001.fastq.gz)
+Analysis complete for LP-07-S_S6_R2_001.fastq.gz
+Analysis complete for GM-39-S_S24_R2_001.fastq.gz
+TACC Launcher -> Iniating task 46 on c401-903.stampede.tacc.utexas.edu (fastqc PD-21-S_S13_R2_001.fastq.gz)
+Analysis complete for GM-39-S_S24_R1_001.fastq.gz
+Analysis complete for LP-04-S_S4_R1_001.fastq.gz
+Analysis complete for LP-04-S_S4_R2_001.fastq.gz
+TACC Launcher -> Iniating task 34 on c401-903.stampede.tacc.utexas.edu (fastqc LP-09-S_S8_R2_001.fastq.gz)
+Analysis complete for LP-03-S_S3_R1_001.fastq.gz
+TACC Launcher -> Iniating task 41 on c401-903.stampede.tacc.utexas.edu (fastqc PD-15-S_S12_R1_001.fastq.gz)
+Analysis complete for LP-03-S_S3_R2_001.fastq.gz
+TACC Launcher -> Iniating task 42 on c401-903.stampede.tacc.utexas.edu (fastqc PD-15-S_S12_R2_001.fastq.gz)
+TACC Launcher -> Iniating task 33 on c401-903.stampede.tacc.utexas.edu (fastqc LP-09-S_S8_R1_001.fastq.gz)
+Analysis complete for LP-06-S_S5_R1_001.fastq.gz
+TACC Launcher -> Iniating task 40 on c401-903.stampede.tacc.utexas.edu (fastqc PD-14-S_S11_R2_001.fastq.gz)
+TACC Launcher -> Iniating task 39 on c401-903.stampede.tacc.utexas.edu (fastqc PD-14-S_S11_R1_001.fastq.gz)
+Analysis complete for LP-06-S_S5_R2_001.fastq.gz
+TACC Launcher -> Iniating task 43 on c401-903.stampede.tacc.utexas.edu (fastqc PD-16-S_S33_R1_001.fastq.gz)
+TACC Launcher -> Iniating task 44 on c401-903.stampede.tacc.utexas.edu (fastqc PD-16-S_S33_R2_001.fastq.gz)
+Analysis complete for LP-01-S_S1_R1_001.fastq.gz
+Analysis complete for LP-01-S_S1_R2_001.fastq.gz
+TACC Launcher -> Iniating task 35 on c401-903.stampede.tacc.utexas.edu (fastqc PD-12-S_S9_R1_001.fastq.gz)
+TACC Launcher -> Iniating task 36 on c401-903.stampede.tacc.utexas.edu (fastqc PD-12-S_S9_R2_001.fastq.gz)
+Analysis complete for LP-02-S_S2_R1_001.fastq.gz
+TACC Launcher -> Iniating task 37 on c401-903.stampede.tacc.utexas.edu (fastqc PD-13-S_S10_R1_001.fastq.gz)
+Analysis complete for LP-02-S_S2_R2_001.fastq.gz
+TACC Launcher -> Iniating task 38 on c401-903.stampede.tacc.utexas.edu (fastqc PD-13-S_S10_R2_001.fastq.gz)
+Analysis complete for PD-22-S_S14_R1_001.fastq.gz
+TACC Launcher -> Iniating task 63 on c401-903.stampede.tacc.utexas.edu (fastqc VD-56-S_S30_R1_001.fastq.gz)
+Analysis complete for PD-22-S_S14_R2_001.fastq.gz
+Analysis complete for PD-14-S_S11_R2_001.fastq.gz
+TACC Launcher -> Iniating task 64 on c401-903.stampede.tacc.utexas.edu (fastqc VD-56-S_S30_R2_001.fastq.gz)
+Analysis complete for PD-14-S_S11_R1_001.fastq.gz
+TACC Launcher -> Iniating task 56 on c401-903.stampede.tacc.utexas.edu (fastqc VD-52-S_S26_R2_001.fastq.gz)
+TACC Launcher -> Iniating task 55 on c401-903.stampede.tacc.utexas.edu (fastqc VD-52-S_S26_R1_001.fastq.gz)
+Analysis complete for PD-16-S_S33_R1_001.fastq.gz
+TACC Launcher -> Iniating task 59 on c401-903.stampede.tacc.utexas.edu (fastqc VD-54-S_S28_R1_001.fastq.gz)
+Analysis complete for PD-12-S_S9_R1_001.fastq.gz
+Analysis complete for PD-12-S_S9_R2_001.fastq.gz
+Analysis complete for LP-09-S_S8_R1_001.fastq.gz
+Analysis complete for PD-16-S_S33_R2_001.fastq.gz
+TACC Launcher -> Iniating task 51 on c401-903.stampede.tacc.utexas.edu (fastqc PD-24-S_S16_R1_001.fastq.gz)
+TACC Launcher -> Iniating task 52 on c401-903.stampede.tacc.utexas.edu (fastqc PD-24-S_S16_R2_001.fastq.gz)
+Analysis complete for LP-09-S_S8_R2_001.fastq.gz
+Analysis complete for PD-21-S_S13_R1_001.fastq.gz
+TACC Launcher -> Iniating task 49 on c401-903.stampede.tacc.utexas.edu (fastqc PD-23-S_S15_R1_001.fastq.gz)
+TACC Launcher -> Iniating task 60 on c401-903.stampede.tacc.utexas.edu (fastqc VD-54-S_S28_R2_001.fastq.gz)
+TACC Launcher -> Iniating task 50 on c401-903.stampede.tacc.utexas.edu (fastqc PD-23-S_S15_R2_001.fastq.gz)
+TACC Launcher -> Iniating task 61 on c401-903.stampede.tacc.utexas.edu (fastqc VD-55-S_S29_R1_001.fastq.gz)
+Analysis complete for PD-21-S_S13_R2_001.fastq.gz
+TACC Launcher -> Iniating task 62 on c401-903.stampede.tacc.utexas.edu (fastqc VD-55-S_S29_R2_001.fastq.gz)
+Analysis complete for PD-15-S_S12_R1_001.fastq.gz
+TACC Launcher -> Iniating task 57 on c401-903.stampede.tacc.utexas.edu (fastqc VD-53-S_S27_R1_001.fastq.gz)
+Analysis complete for PD-15-S_S12_R2_001.fastq.gz
+TACC Launcher -> Iniating task 58 on c401-903.stampede.tacc.utexas.edu (fastqc VD-53-S_S27_R2_001.fastq.gz)
+Analysis complete for VD-56-S_S30_R1_001.fastq.gz
+Analysis complete for VD-56-S_S30_R2_001.fastq.gz
+Analysis complete for VD-52-S_S26_R1_001.fastq.gz
+Analysis complete for VD-52-S_S26_R2_001.fastq.gz
+Analysis complete for PD-13-S_S10_R1_001.fastq.gz
+TACC Launcher -> Iniating task 53 on c401-903.stampede.tacc.utexas.edu (fastqc VD-51-S_S25_R1_001.fastq.gz)
+Analysis complete for PD-23-S_S15_R1_001.fastq.gz
+Analysis complete for VD-54-S_S28_R1_001.fastq.gz
+Analysis complete for PD-13-S_S10_R2_001.fastq.gz
+Analysis complete for PD-23-S_S15_R2_001.fastq.gz
+TACC Launcher -> Iniating task 65 on c401-903.stampede.tacc.utexas.edu (fastqc VD-57-S_S31_R1_001.fastq.gz)
+TACC Launcher -> Iniating task 54 on c401-903.stampede.tacc.utexas.edu (fastqc VD-51-S_S25_R2_001.fastq.gz)
+Analysis complete for PD-24-S_S16_R1_001.fastq.gz
+TACC Launcher -> Iniating task 66 on c401-903.stampede.tacc.utexas.edu (fastqc VD-57-S_S31_R2_001.fastq.gz)
+Analysis complete for PD-24-S_S16_R2_001.fastq.gz
+TACC Launcher -> Iniating task 67 on c401-903.stampede.tacc.utexas.edu (fastqc VD-58-S_S32_R1_001.fastq.gz)
+Analysis complete for VD-54-S_S28_R2_001.fastq.gz
+TACC Launcher -> Iniating task 68 on c401-903.stampede.tacc.utexas.edu (fastqc VD-58-S_S32_R2_001.fastq.gz)
+Analysis complete for VD-55-S_S29_R1_001.fastq.gz
+Analysis complete for VD-55-S_S29_R2_001.fastq.gz
+Analysis complete for VD-53-S_S27_R1_001.fastq.gz
+Analysis complete for VD-53-S_S27_R2_001.fastq.gz
+Analysis complete for VD-57-S_S31_R1_001.fastq.gz
+Analysis complete for VD-51-S_S25_R1_001.fastq.gz
+Analysis complete for VD-58-S_S32_R1_001.fastq.gz
+Analysis complete for VD-58-S_S32_R2_001.fastq.gz
+Analysis complete for VD-57-S_S31_R2_001.fastq.gz
+Analysis complete for VD-51-S_S25_R2_001.fastq.gz
+TACC: Shutting down parallel environment.
+TACC: Shutdown complete. Exiting.
+ {fastqc} Job Complete

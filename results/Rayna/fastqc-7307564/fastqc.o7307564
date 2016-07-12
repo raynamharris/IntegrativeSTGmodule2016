@@ -1,0 +1,27 @@
+/work/02189/rmharris/myfirstsbatch/wc_reads_better/data
+TACC: Starting up job 7307564
+TACC: starting parallel tasks...
+--------------------------------------------------
+TACC Launcher -> 8 processors allocated.
+TACC Launcher -> 8 total tasks to complete.
+--------------------------------------------------
+ 
+TACC Launcher -> Iniating task 1 on c401-002.stampede.tacc.utexas.edu (fastqc GM_25_S_S31_L003_R1_001_small.fastq)
+TACC Launcher -> Iniating task 4 on c401-002.stampede.tacc.utexas.edu (fastqc GM_26_S_S32_L003_R2_001_small.fastq)
+TACC Launcher -> Iniating task 5 on c401-002.stampede.tacc.utexas.edu (fastqc PD_10_S_S27_L003_R1_001_small.fastq)
+TACC Launcher -> Iniating task 7 on c401-002.stampede.tacc.utexas.edu (fastqc PD_11_S_S28_L003_R1_001_small.fastq)
+TACC Launcher -> Iniating task 8 on c401-002.stampede.tacc.utexas.edu (fastqc PD_11_S_S28_L003_R2_001_small.fastq)
+TACC Launcher -> Iniating task 2 on c401-002.stampede.tacc.utexas.edu (fastqc GM_25_S_S31_L003_R2_001_small.fastq)
+TACC Launcher -> Iniating task 6 on c401-002.stampede.tacc.utexas.edu (fastqc PD_10_S_S27_L003_R2_001_small.fastq)
+TACC Launcher -> Iniating task 3 on c401-002.stampede.tacc.utexas.edu (fastqc GM_26_S_S32_L003_R1_001_small.fastq)
+Analysis complete for GM_26_S_S32_L003_R2_001_small.fastq
+Analysis complete for GM_26_S_S32_L003_R1_001_small.fastq
+Analysis complete for PD_10_S_S27_L003_R1_001_small.fastq
+Analysis complete for PD_10_S_S27_L003_R2_001_small.fastq
+Analysis complete for PD_11_S_S28_L003_R2_001_small.fastq
+Analysis complete for PD_11_S_S28_L003_R1_001_small.fastq
+Analysis complete for GM_25_S_S31_L003_R2_001_small.fastq
+Analysis complete for GM_25_S_S31_L003_R1_001_small.fastq
+TACC: Shutting down parallel environment.
+TACC: Shutdown complete. Exiting.
+ {fastqc} Job Complete

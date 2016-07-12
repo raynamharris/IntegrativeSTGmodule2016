@@ -1,0 +1,12 @@
+PASS	Basic Statistics	GM_25_S_S31_L003_R2_001_small.fastq
+PASS	Per base sequence quality	GM_25_S_S31_L003_R2_001_small.fastq
+PASS	Per tile sequence quality	GM_25_S_S31_L003_R2_001_small.fastq
+PASS	Per sequence quality scores	GM_25_S_S31_L003_R2_001_small.fastq
+FAIL	Per base sequence content	GM_25_S_S31_L003_R2_001_small.fastq
+FAIL	Per sequence GC content	GM_25_S_S31_L003_R2_001_small.fastq
+PASS	Per base N content	GM_25_S_S31_L003_R2_001_small.fastq
+PASS	Sequence Length Distribution	GM_25_S_S31_L003_R2_001_small.fastq
+PASS	Sequence Duplication Levels	GM_25_S_S31_L003_R2_001_small.fastq
+WARN	Overrepresented sequences	GM_25_S_S31_L003_R2_001_small.fastq
+PASS	Adapter Content	GM_25_S_S31_L003_R2_001_small.fastq
+PASS	Kmer Content	GM_25_S_S31_L003_R2_001_small.fastq
