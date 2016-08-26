@@ -16,7 +16,7 @@ Tuesday 7-5 | Module Overview & Introductions | TBA
  | [Blast tutorial and exercises](protocols/blast.md)  | Loeb G70N
 Wednesday 7-6 | Morning Boat Ride!!| Gemma
  | [Primer design exercise](http://www.ncbi.nlm.nih.gov/tools/primer-blast/) | Loeb G70N 
- | qPCR principles: [Part 1 RNA isolation and cDNA synthesis](Presentations/"The Theory and Practice of Real-time PCR_PART1 3.17.16.pptx") and [Part 2 qPCR](Presentations/"The Theory and Practice of Real-time PCR_FINAL.pptx")  | TBA
+ | qPCR principles: [Part 1 RNA isolation and cDNA synthesis](https://github.com/raynamharris/IntegrativeSTGmodule2016/blob/master/Presentations/The%20Theory%20and%20Practice%20of%20Real-time%20PCR_PART1%203.17.16.pptx) and [Part 2 qPCR](https://github.com/raynamharris/IntegrativeSTGmodule2016/blob/master/Presentations/The%20Theory%20and%20Practice%20of%20Real-time%20PCR_FINAL.pptx)  | TBA
  | qPCR - gBlocks | Loeb 157
  | Wednesday light lecture
  | Student project discussion
